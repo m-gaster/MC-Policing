@@ -12,3 +12,5 @@ NOTE: Goncalves and Mello's analysis is conducted on data which identifies the o
 The aim of this project is to develop statistical methods which can detect racial bias in a police force, given completely anonymized data. As of right now, this goal has not been realized - the data are simply too weak for statistical inference using the statistical methods I have employed.
 
 My thanks to Dr. Bruno Jedynak for his contributions to this project, and to Dr. Jonathan Graves for his supervision in the initial development of this idea.
+
+The main dataset used in this analysis is too large to upload here, but can be downloaded from https://data.montgomerycountymd.gov/Public-Safety/Traffic-Violations/4mse-ku6q
