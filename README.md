@@ -10,3 +10,5 @@ This analysis is based on the ingenious methodology devloped by Goncalves and Me
 NOTE: Goncalves and Mello's analysis is conducted on data which identifies the officers and the drivers - but MC data does not identify the officer or driver. This makes most of their methodology inapplicable to MC (and many other municipalities).
 
 The aim of this project is to develop statistical methods which can detect racial bias in a police force, given completely anonymized data. As of right now, this goal has not been realized - the data are simply too weak for statistical inference using the statistical methods I have employed.
+
+My thanks to Dr. Bruno Jedynak for his contributions to this project, and to Dr. Jonathan Graves for his supervision in the initial development of this idea.
